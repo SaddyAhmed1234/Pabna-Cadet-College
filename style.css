@@ -277,7 +277,7 @@ footer{
 }
 .col-lg-3.col-sm-12 img {
     float: left;
-    margin-left: 90px;
+    /* margin-left: 90px; */
     margin-top: 20px;
 }
 .nav-link:hover{
